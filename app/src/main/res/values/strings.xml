@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string name="news_a">
+Bali juga terkenal memiliki banyak objek wisata sawah terasering. Ada dua objek wisata sawah terasering yang terkenal di Bali. Yaitu, sawah terasering Jatiluwih, serta sawah terasering Tegalalang.
+    </string>
+
+    <string name="news_b">
+        Lokasi area pura Besakih berada di kaki Gunung Agung, kabupaten Karangasem. Sekadar informasi, Gunung Agung adalah gunung berapi aktif tertinggi di pulau Bali. Karena berada di area kaki gunung Agung, maka udara sejuk terlalu terasa saat liburan ke pura Besakih.
+    </string>
+
+    <string name="news_c">
+       Daya tarik utama Pura Ulun Danu Beratan sebagai tempat wisata terletak pada lokasi pura Ulun Danu. Pura Ulun Danu lokasinya ada di pinggir danau Beratan. Namun sebagian pura berada di tengah danau Beratan.
+    </string>
+
+    <string name="news_d">
+        Buat yang doyan main air, tempat ini wajib banget untuk dikunjungi.
+Lansekap air terjun yang ada di sini sangat unik, karena terdapat sebuah ceruk batu yang dilalui aliran air layaknya perosotan alami menuju kolam di bawahnya. Kalau nggak berani coba sendirian, barengan meluncur sama temen-temen aja!
+    </string>
+
+    <string name="news_e">GOA gajah di Ubud, konon Goa Gajah merupakan tempat pertapaan orang suci zaman dahulu. Tempatnya sangat unik dan didalam goa terdapat Patung ganesha, mulut goa dihiasi dengan ornament Gajah.
+    </string>
+
+</resources>
